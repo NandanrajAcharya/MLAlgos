@@ -1,0 +1,48 @@
+Linear Regression
+
+boston-housing-price-prediction ml project github
+
+https://github.com/rahulravindran0108/Boston-House-Price-Prediction
+
+https://github.com/rahulravindran0108/Boston-House-Price-Prediction/blob/master/boston_housing.py
+
+https://towardsdatascience.com/machine-learning-project-predicting-boston-house-prices-with-regression-b4e47493633d
+
+boston house price prediction ml project linear regression
+
+https://towardsdatascience.com/predicting-boston-house-prices-using-linear-regression-3c6107c662e5 _Ridge And LAsso
+
+https://medium.com/analytics-vidhya/boston-house-price-prediction-using-machine-learning-ad3750a866cd
+
+
+https://www.kaggle.com/shreayan98c/boston-house-price-prediction
+
+-------
+
+*https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155
+
+*https://medium.com/analytics-vidhya/boston-house-price-prediction-using-machine-learning-ad3750a866cd
+
+*https://towardsdatascience.com/predicting-boston-house-prices-using-linear-regression-3c6107c662e5
+
+*Youtube - https://www.youtube.com/watch?v=ZeM2tHtjGy4&ab_channel=KGPTalkie
+** Code -https://kgptalkie.com/linear-regression-with-python-machine-learlearning-kgp-talkie/
+
+---------------
+
+Logistic Regression
+
+**
+https://github.com/a-djebali/data-science-affairs
+
+https://medium.com/analytics-vidhya/logistic-regression-to-predict-extra-marital-affair-68ae98bc0e4f
+
+http://dsbyprateekg.blogspot.com/2017/09/machine-learning-logistic-regression.html
+
+
+RandomForest
+
+https://www.kaggle.com/shreayan98c/boston-house-price-prediction
+
+https://medium.com/@santhoshetty/predicting-housing-prices-4969f6b0945
+

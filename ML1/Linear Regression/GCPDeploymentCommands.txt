@@ -1,0 +1,22 @@
+Place Code in Github
+-------------
+git
+git init
+git add .
+git commit -m "this is gcp "
+git config --global user.email "contact@ineuron.ai"
+git config --global user.name "sudhanshu"
+git remote add origin https://github.com/iNeuron-ai/MLgcp1.git
+git branch -M main
+git remote add origin https://github.com/iNeuron-ai/MLgcp1.git
+git push -u origin main
+
+git clone https://github.com/NandanrajAcharya/MLgcp1.git
+
+cd MLgcp1/
+ls
+gcloud config set project projectID
+ 
+
+https://console.developers.google.com/home/activity?project=mlgcplr-296414
+https://console.cloud.google.com/home/dashboard?cloudshell=true&folder=&organizationId=&project=mlgcplr-296414 

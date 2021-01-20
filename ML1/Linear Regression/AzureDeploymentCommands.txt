@@ -1,0 +1,16 @@
+Azure Logged in through Github
+
+nandanrajacharya@gmail.com
+
+*electrical1
+
+Azure - nandanrajacharya@live.com
+
+git
+git init
+git add .
+git commit -m "this is gcp "
+
+git push https://mlazure.scm.azurewebsites.net:443/mlazure.git master
+
+https://mlazure.azurewebsites.net/
